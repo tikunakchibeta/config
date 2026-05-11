@@ -1,0 +1,315 @@
+--- ACE32 ---
+1101102007 | Beam Blast - ACE32 (Lv. 7)
+1101102017 | Icicle Spike - ACE32 (Lv. 7)
+1101102025 | Mystic Kraken - ACE32 (Lv. 8)
+1101102032 | Foxie Moxie - ACE32 (Lv. 5)
+1101102041 | Papillon Kiss - ACE32 (Lv. 8)
+1101102049 | Butterfly Whispers - ACE32 (Lv. 8)
+
+--- AKM ---
+1101001042 | Sculpture - AKM (Lv. 6)
+1101001063 | The Seven Seas - AKM (Lv. 7)
+1101001068 | Roaring Tiger - AKM (Lv. 5)
+1101001089 | Glacier - AKM (Lv. 7)
+1101001103 | Desert Fossil - AKM (Lv. 7)
+1101001116 | Jack-o'-lantern - AKM (Lv. 7)
+1101001128 | Ghillie Dragon - AKM (Lv. 7)
+1101001143 | Gold Pirate - AKM (Lv. 7)
+1101001154 | Codebreaker - AKM (Lv. 7)
+1101001174 | Wandering Tyrant - AKM (Lv. 8)
+1101001213 | Starsea Admiral - AKM (Lv. 8)
+1101001231 | Bunny Munchkin - AKM (Lv. 7)
+1101001242 | Decisive Day - AKM (Lv. 8)
+1101001249 | Lightshift Temple (Divine Moon) - AKM (Lv. 7)
+1101001256 | Lightshift Temple (Gold Feather) - AKM (Lv. 7)
+1101001265 | Sandspring Dominion - AKM (Lv. 8)
+1101001276 | Pulsing Light - AKM (Lv. 8)
+
+--- AMR ---
+1103012010 | Crimson Ephialtes - AMR (Lv. 8)
+1103012019 | Scorching Blessing - AMR (Lv. 7)
+1103012024 | Onyx Blizzard - AMR (Lv. 5)
+1103012031 | Silent Departed - AMR (Lv. 7)
+1103012039 | Pyrotechnic Chroma - AMR (Lv. 7)
+
+--- ASM Abakan ---
+1101101007 | Bloodwing Raven - ASM Abakan (Lv. 7)
+
+--- AUG ---
+1101006033 | Wandering Circus - AUG (Lv. 5)
+1101006044 | Evangelion 4th Angel - AUG (Lv. 5)
+1101006062 | Forsaken Glace - AUG (Lv. 8)
+1101006067 | Deep Sea Terror - AUG (Lv. 5)
+1101006075 | Abyssal Howl - AUG (Lv. 7)
+1101006085 | Nyxen Rose - AUG (Lv. 8)
+
+--- AWM ---
+1103003022 | Mauve Avenger - AWM (Lv. 7)
+1103003030 | Field Commander - AWM (Lv. 7)
+1103003042 | Godzilla - AWM (Lv. 7)
+1103003051 | Rainbow Drake - AWM (Lv. 7)
+1103003062 | Flamewave - AWM (Lv. 7)
+1103003079 | Valor's Requiem - AWM (Lv. 7)
+1103003087 | Serpengleam - AWM (Lv. 7)
+1103003092 | Crimson Petal - AWM (Lv. 5)
+
+--- DBS ---
+1104004024 | Panthera Prime - DBS (Lv. 3)
+1104004035 | Cosmic Beast - DBS (Lv. 5)
+1104004041 | Sandsinger - DBS (Lv. 5)
+1104004051 | Okarun(transformed) - DBS (Lv. 5)
+
+--- DP-28 ---
+1105002018 | Enigmatic Hunter - DP-28 (Lv. 5)
+1105002035 | Gilded Jade Dragon - DP-28 (Lv. 5)
+1105002058 | Nautical Warrior - DP-28 (Lv. 5)
+1105002063 | Shenron - DP-28 (Lv. 5)
+1105002071 | Mech Hero - DP-28 (Lv. 5)
+1105002076 | Data Kitten - DP-28 (Lv. 5)
+1105002091 | Bloodbane Parasite - DP-28 (Lv. 8)
+1105002096 | Rebel Roguefox - DP-28 (Lv. 3)
+
+--- DSR ---
+1103102007 | Hyperion Ship - DSR (Lv. 7)
+
+--- FAMAS ---
+1101100012 | Origin Lumen - FAMAS (Lv. 8)
+1101100018 | Cyber Mirage - FAMAS (Lv. 5)
+
+--- GROZA ---
+1101005019 | Forest Raider - GROZA (Lv. 5)
+1101005025 | Eventide Aria - GROZA (Lv. 5)
+
+--- Groza ---
+1101005038 | Ryomen Sukuna - Groza (Lv. 7)
+1101005043 | Splendid Battle - Groza (Lv. 5)
+1101005052 | River Styx - Groza (Lv. 7)
+1101005082 | Pumpkin Carol - Groza (Lv. 5)
+1101005090 | Primordial Remnants - Groza (Lv. 5)
+1101005098 | Burning Godzilla - Groza (Lv. 7)
+1101005105 | Singam Roar - Groza (Lv. 5)
+
+--- Honey Badger ---
+1101012009 | Vivid Glare - Honey Badger (Lv. 5)
+1101012018 | Melodic Rhythm - Honey Badger (Lv. 5)
+1101012033 | Sacred Witherbloom - Honey Badger (Lv. 7)
+
+--- Kar98K ---
+1103001060 | Terror Fang - Kar98K (Lv. 7)
+1103001079 | Kukulkan Fury - Kar98K (Lv. 7)
+1103001085 | Night of Rock - Kar98K (Lv. 5)
+1103001101 | Moonlit Grace - Kar98K (Lv. 7)
+1103001129 | Gackt Moon - Kar98K (Lv. 7)
+1103001146 | Titanium Shark - Kar98K (Lv. 7)
+1103001154 | Lethal Code - Kar98K (Lv. 7)
+1103001160 | Nebula Hunter - Kar98K (Lv. 5)
+1103001179 | Violet Volt - Kar98K (Lv. 7)
+1103001183 | Kitty Kadence - Kar98K (Lv. 3)
+1103001191 | Thornmaker - Kar98K (Lv. 7)
+1103001202 | Frostbite Fang - Kar98K (Lv. 8)
+
+--- M16A4 ---
+1101002029 | Blood & Bones - M16A4 (Lv. 7)
+1101002056 | Aurora Pulse - M16A4 (Lv. 7)
+1101002068 | Radiant Edge - M16A4 (Lv. 5)
+1101002081 | Skeletal Core - M16A4 (Lv. 7)
+1101002103 | Dracoguard - M16A4 (Lv. 5)
+1101002110 | Sweetheart Surge - M16A4 (Lv. 5)
+1101002117 | Seraphic Beacon - M16A4 (Lv. 5)
+1101002125 | Veldora - M16A4(Lv.5)
+1101002128 | Thornrose Dawn - M16A4 (Lv. 3)
+1101002133 | Mechagodzilla - M16A4 (Lv. 5)
+1101002142 | PUBG MOBILE × G-DRAGON - M16A4 (Lv. 5)
+1101002149 | Celadon Aether - M16A4 (Lv. 5)
+
+--- M24 ---
+1103002018 | The Seven Seas - M24 (Lv. 5)
+1103002030 | Pharaoh's Might - M24 (Lv. 7)
+1103002047 | Killer Tune - M24 (Lv. 5)
+1103002049 | Lady Butterfly - M24 (Lv. 5)
+1103002059 | Circle of Life - M24 (Lv. 7)
+1103002087 | Cadence Maestro - M24 (Lv. 7)
+1103002094 | Industry Edge - M24 (Lv. 5)
+1103002106 | Voidwave Trigger - M24 (Lv. 7)
+1103002113 | Nightshade Dawn - M24 (Lv. 7)
+
+--- M249 ---
+1105001034 | Party Parcel - M249 (Lv. 7)
+1105001048 | Moondrop Eterna - M249 (Lv. 7)
+1105001054 | Stargaze Fury - M249 (Lv. 5)
+1105001062 | Graffiti Street - M249 (Lv. 5)
+1105001069 | Malus Majesty - M249 (Lv. 7)
+1105001075 | Predator Protocol - M249 (Lv. 5)
+
+--- M416 ---
+1101004046 | Glacier - M416 (Lv. 7)
+1101004062 | The Fool - M416 (Lv. 7)
+1101004078 | Wanderer - M416 (Lv. 7)
+1101004086 | Lizard Roar - M416 (Lv. 7)
+1101004098 | Call of the Wild - M416 (Lv. 7)
+1101004138 | TechnoCore - M416 (Lv. 7)
+1101004163 | Imperial Splendor - M416 (Lv. 8)
+1101004201 | Silver Guru - M416 (Lv. 8)
+1101004209 | Tidal Embrace - M416 (Lv. 8)
+1101004218 | Shinobi Kami - M416 (Lv. 8)
+1101004226 | Sealed Nether - M416 (Lv. 8)
+1101004236 | Roaring Immolation - M416 (Lv. 8)
+1101004246 | Crimson Skyblade - M416 (Lv. 8)
+
+--- M762 ---
+1101008026 | 8-bit Unicorn - M762 (Lv. 5)
+1101008036 | Lotus Fury - M762 (Lv. 5)
+1101008051 | Concerto of Love - M762 (Lv. 7)
+1101008061 | Deadly Precision - M762 (Lv. 7)
+1101008070 | GACKT MOONSAGA - M762 (Lv. 7)
+1101008081 | Stray Rebellion - M762 (Lv. 8)
+1101008104 | Starcore - M762 (Lv. 8)
+1101008116 | Messi Football Icon - M762 (Lv. 7)
+1101008126 | Noctum Sunder - M762 (Lv. 7)
+1101008136 | Luminous Muse - M762 (Lv. 7)
+1101008146 | Skeletal Carver - M762 (Lv. 8)
+1101008154 | Platinum Skeleton - M762 (Lv. 8)
+1101008163 | Soulspecter Shredder - M762 (Lv. 7)
+
+--- MG3 ---
+1105010008 | Soaring Dragon - MG3 (Lv. 5)
+1105010019 | Sky Huntress - MG3 (Lv. 7)
+1105010025 | Mina Ashiro - MG3 (Lv. 4)
+1105010026 | Mina Ashiro - MG3 (Lv. 5)
+--- Mini14 ---
+1103006030 | Icicle - Mini14 (Lv. 7)
+1103006046 | Ethereal Beauty - Mini14 (Lv. 5)
+1103006058 | Fortune Cat - Mini14 (Lv. 5)
+1103006063 | Gallant Jockey - Mini14 (Lv. 5)
+1103006075 | Dynamic Realm - Mini14 (Lv. 5)
+
+--- Mk12 ---
+1103100007 | Precise Predator - Mk12 (Lv. 5)
+
+--- Mk14 ---
+1103007020 | Gilded Galaxy - Mk14 (Lv. 5)
+1103007028 | Drakreign - Mk14 (Lv. 8)
+1103007038 | Cuddly Nailoong - Mk14 (Lv. 5)
+1103007043 | Gift Parcel - Mk14 (Lv. 5)
+
+--- Mk47 ---
+1101009019 | Patchmetal Bunny - Mk47 (Lv. 3)
+
+--- mp5k ---
+1102007019 | PUBGM X QWER - mp5k(Lv.5)
+
+--- MP5K ---
+1102007022 | Retro Pixel - MP5K (Lv. 3)
+
+--- NS2000 ---
+1104102004 | Rustborn Strider - NS2000 (Lv. 3)
+
+--- P90 ---
+1102005072 | Anamika Spirited Veil - P90 (Lv. 5)
+1102105012 | Devious Cybercat - P90 (Lv. 7)
+1102105018 | Golden Talon - P90 (Lv. 5)
+1102105028 | Golden Pegasus - P90 (Lv. 7)
+
+--- PP-19 ---
+1102005078 | SAKAMOTO SHOP - PP-19 (Lv.5)
+
+--- PP-19 Bizon ---
+1102005007 | Blazing Chameleon - PP-19 Bizon (Lv. 5)
+1102005020 | Skullcrusher - PP-19 Bizon (Lv. 5)
+1102005041 | Soldier Soul - PP-19 Bizon (Lv. 5)
+1102005045 | Nightscape Gladiator - PP-19 Bizon (Lv. 3)
+1102005057 | Auspicious Lion - PP-19 Bizon (Lv. 5)
+1102005064 | Spectral Byte - PP-19 Bizon (Lv. 7)
+
+--- QBZ ---
+1101007025 | Dazzling Sun - QBZ (Lv. 5)
+1101007036 | Fatal Strike - QBZ (Lv. 5)
+1101007046 | Nether Phantom - QBZ (Lv. 7)
+1101007062 | Fatal Foil - QBZ (Lv. 7)
+1101007071 | Empyrean Charm - QBZ (Lv. 7)
+1101007078 | Icy Lure - QBZ (Lv. 5)
+
+--- S12K ---
+1104003037 | Atomic Trigger - S12K (Lv. 5)
+1104003046 | Heartbeat Moment - S12K (Lv. 5)
+
+--- S1897 ---
+1104002022 | Twilight Hunt - S1897 (Lv. 5)
+1104002049 | Splendid Assault - S1897 (Lv. 3)
+
+--- S686 ---
+1104001035 | Lethal Venom - S686 (Lv. 5)
+
+--- SCAR-L ---
+1101003057 | Water Blaster - SCAR-L (Lv. 7)
+1101003070 | Enchanted Pumpkin - SCAR-L (Lv. 7)
+1101003080 | Operation Tomorrow - SCAR-L (Lv. 7)
+1101003099 | Drop the Bass - SCAR-L (Lv. 7)
+1101003119 | Hextech Crystal - SCAR-L (Lv. 7)
+1101003146 | Thorn of Malice - SCAR-L (Lv. 8)
+1101003167 | Bloodstained Nemesis - SCAR-L (Lv. 8)
+1101003173 | Radiant Citadel - SCAR-L (Lv. 5)
+1101003181 | Folly's Clasp - SCAR-L (Lv. 7)
+1101003195 | Serene Lumina - SCAR-L (Lv. 7)
+1101003208 | Fantastical Realm - SCAR-L (Lv. 7)
+1101003212 | Chow Blaster - SCAR-L (Lv. 3)
+1101003219 | Soulbound Prism - SCAR-L (Lv. 7)
+1101003227 | Phoenix Rising - SCAR-L (Lv. 8)
+
+--- SKS ---
+1103004037 | Lady Carmine - SKS (Lv. 7)
+1103004046 | Metal Medley - SKS (Lv. 5)
+1103004058 | Snowcapped Berg - SKS (Lv. 5)
+1103004080 | Graceful Trigger - SKS (Lv. 5)
+1103004087 | Melodic Climax - SKS (Lv. 5)
+
+--- SLR ---
+1103009022 | Falling Blossom - SLR (Lv. 5)
+1103009037 | Mageblaze - SLR (Lv. 5)
+1103009042 | Seadream Melody - SLR (Lv. 3)
+1103009051 | Hollow Wake - SLR (Lv. 5)
+
+--- Thompson SMG ---
+1102004018 | Candy Cane - Thompson SMG (Lv. 5)
+1102004034 | Steampunk - Thompson SMG (Lv. 5)
+1102004048 | Lilac Finesse - Thompson SMG (Lv. 3)
+
+--- UMP45 ---
+1102002043 | Dragonfire - UMP45 (Lv. 7)
+1102002053 | EMP - UMP45 (Lv. 5)
+1102002061 | Outlawed Fantasy - UMP45 (Lv. 7)
+1102002070 | Platinum Ripper - UMP45 (Lv. 5)
+1102002090 | 8-Bit Blast - UMP45 (Lv. 5)
+1102002112 | Xmas Holiday - UMP45 (Lv. 5)
+1102002117 | Rainbow Stinger - UMP45 (Lv. 5)
+1102002124 | Marine Evolution - UMP45 (Lv. 3)
+1102002129 | Carnival Waves - UMP45 (Lv. 5)
+1102002136 | Cryofrost Shard - UMP45 (Lv. 7)
+1102002143 | PUBGM X NewJeans - UMP45(Lv.5)
+1102002424 | Void Souleater - UMP45 (Lv. 7)
+
+--- UZI ---
+1102001024 | Savagery - UZI (Lv. 6)
+1102001036 | Ethereal Emblem - UZI (Lv. 5)
+1102001058 | Romantic Moments - UZI (Lv. 5)
+1102001069 | Shimmer Power - UZI (Lv. 5)
+1102001089 | Mystech - UZI (Lv. 5)
+1102001102 | Juicer - UZI (Lv. 5)
+1102001103 | Citrus Bliss - UZI (Lv. 5)
+1102001112 | Spirit Sentry - UZI (Lv. 3)
+1102001120 | Glacier Hammer - UZI (Lv. 8)
+1102001130 | Chained Inferno - UZI (Lv. 7)
+
+--- Vector ---
+1102003020 | Blood Tooth - Vector (Lv. 5)
+1102003031 | Midnight Rose - Vector (Lv. 5)
+1102003039 | Cute Baddie - Vector (Lv. 5)
+1102003052 | Golden Earl - Vector (Lv. 5)
+1102003065 | Gilded Reaper - Vector (Lv. 5)
+1102003072 | Ultimate Predator - Vector (Lv. 5)
+1102003080 | Mecha Drake - Vector (Lv. 7)
+1102003100 | Absolute Zero - Vector (Lv. 7)
+
+--- VSS ---
+1103005024 | Crow - VSS (Lv. 5)
+1103005048 | Winter Patrol - VSS (Lv. 3)
