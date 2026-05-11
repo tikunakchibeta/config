@@ -1,0 +1,742 @@
+=====MOTORCYCLE====
+
+1901001 | c9011d00 | Motorcycle
+1901002 | ca011d00 | 炫酷摩托车皮肤（测试）
+1901003 | cb011d00 | Hot Pizza 2-Seat Motorcycle
+1901004 | cc011d00 | Neon Punk 2-Seat Motorcycle (Blue)
+1901005 | cd011d00 | Neon Punk 2-Seat Motorcycle (Purple)
+1901006 | ce011d00 | Extreme Racing Motorcycle
+1901007 | cf011d00 | Time Traveler Motorcycle
+1901009 | d1011d00 | Vampire Motorcycle
+1901011 | d3011d00 | Lime Green Motorcycle
+1901012 | d4011d00 | Nutcracker Motorcycle
+1901013 | d5011d00 | Frozen Roar Motorcycle
+1901014 | d6011d00 | Wintertime Motorcycle
+1901015 | d7011d00 | Scarlet Beast Motorcycle
+1901016 | d8011d00 | Skeleton Chariot (Lv. 1)
+1901017 | d9011d00 | Skeleton Chariot (Lv. 2)
+1901018 | da011d00 | Skeleton Chariot (Lv. 3)
+1901020 | dc011d00 | Godzilla Motorcycle
+1901021 | dd011d00 | Rock 'n' Roll Motorcycle
+1901022 | de011d00 | Neon Hopper 2-Seat Motorcycle
+1901023 | df011d00 | Neon Raider 2-Seat Motorcycle
+1901024 | e0011d00 | Neon Dominator 2-Seat Motorcycle
+1901025 | e1011d00 | Roaring Tiger Motorcycle (Lv. 1)
+1901026 | e2011d00 | Roaring Tiger Motorcycle (Lv. 2)
+1901027 | e3011d00 | Roaring Tiger Motorcycle (Lv. 3)
+1901028 | e4011d00 | Daryls Motorcycle
+1901033 | e9011d00 | Hotdogmobile Motorcycle
+1901035 | eb011d00 | Ethereal Emblem Motorcycle
+1901036 | ec011d00 | Poker King 2-seater Motorcycle
+1901040 | f0011d00 | Jungle Prey Motorcycle
+1901041 | f1011d00 | Phantom Motorcycle (Lv. 1)
+1901042 | f2011d00 | Phantom Motorcycle (Lv. 2)
+1901043 | f3011d00 | Phantom Motorcycle (Lv. 3)
+1901044 | f4011d00 | Phantom Motorcycle (Lv. 4)
+1901045 | f5011d00 | Phantom Motorcycle (Lv. 5)
+1901046 | f6011d00 | Phantom Motorcycle (Lv. 6)
+1901047 | f7011d00 | Phantom Motorcycle (Lv. 7)
+1901048 | f8011d00 | Gold and Silk Motorcycle
+1901049 | f9011d00 | T7 Concept
+1901050 | fa011d00 | MWT-9
+1901051 | fb011d00 | T7 Concept (Yellow)
+1901052 | fc011d00 | MWT-9 (Yellow)
+1901055 | ff011d00 | Skeleton Knight 2-Seat Motorcycle
+1901056 | 00021d00 | Dream Idol Motorcycle
+1901057 | 01021d00 | Lady Butterfly Motorcycle
+1901058 | 02021d00 | Fluorescent Jesterette Motorcycle
+1901059 | 03021d00 | Wonderland Motorcycle
+1901060 | 04021d00 | Fever Cassette Motorcycle
+1901061 | 05021d00 | Baby Squid 2-Seat Motorcycle
+1901062 | 06021d00 | Chameleon Motorcycle
+1901063 | 07021d00 | Gold Porcelain 2-Seat Motorcycle
+1901064 | 08021d00 | Rudolph-Santason 2-Seat Motorcycle
+1901065 | 09021d00 | No Way Home Motorcycle
+1901066 | 0a021d00 | Evangelion Mark.06 Motorcycle
+1901067 | 0b021d00 | Gojek 2-Seat Motorcycle
+1901069 | 0d021d00 | Yak Warrior Motorcycle
+1901070 | 0e021d00 | Nether Visage 2-Seat Motorcycle
+1901071 | 0f021d00 | Rabbit Sprite Motorcycle
+1901072 | 10021d00 | Green Fighter 2-Seat Motorcycle
+1901073 | 11021d00 | DUCATI Panigale V4S
+1901074 | 12021d00 | Ducati Panigale V4S Black Phantom
+1901075 | 13021d00 | Ducati Panigale V4S Crimson Storm
+1901076 | 14021d00 | Ducati Panigale V4S Swift Mirage
+1901077 | 15021d00 | Bulma's Motorcycle
+1901079 | 17021d00 | Romantic 2-Seat Motorcycle
+1901080 | 18021d00 | Undead Gunslinger 2-Seat Motorcycle
+1901081 | 19021d00 | Mecha 2-Seat Motorcycle
+1901082 | 1a021d00 | LINE FRIENDS Lovey Dovey 2-Seat Motorcycle (Lv. 1)
+1901083 | 1b021d00 | LINE FRIENDS Lovey Dovey 2-Seat Motorcycle (Lv. 2)
+1901084 | 1c021d00 | LINE FRIENDS Lovey Dovey 2-Seat Motorcycle (Lv. 3)
+1901085 | 1d021d00 | LINE FRIENDS Lovey Dovey 2-Seat Motorcycle (Lv. 4)
+1901086 | 1e021d00 | Cosmic Jump Motorcycle (Lv. 1)
+1901087 | 1f021d00 | Cosmic Jump Motorcycle (Lv. 2)
+1901088 | 20021d00 | Cosmic Jump Motorcycle (Lv. 3)
+1901089 | 21021d00 | Cosmic Jump Motorcycle (Lv. 4)
+1901090 | 22021d00 | Night Ember 2-Seat Motorcycle
+1901091 | 23021d00 | Night Ember 2-Seat Motorcycle
+1901092 | 24021d00 | Indian FTR R Carbon
+1901093 | 25021d00 | Indian Scout 101
+1901094 | 26021d00 | Rimuru Motorcycle
+1901095 | 27021d00 | Mechagodzilla Motorcycle
+1901096 | 28021d00 | Hero Xtreme 160R 4V
+1901097 | 29021d00 | Hero Xtreme 125R
+1901098 | 2a021d00 | Kaiju No. 9 2-Seat Motorcycle
+1901099 | 2b021d00 | Corrupted Vesper 2-Seat Motorcycle (Lv. 1)
+1901100 | 2c021d00 | Corrupted Vesper 2-Seat Motorcycle (Lv. 2)
+1901101 | 2d021d00 | Corrupted Vesper 2-Seat Motorcycle (Lv. 3)
+1901102 | 2e021d00 | Corrupted Vesper 2-Seat Motorcycle (Lv. 4)
+1901103 | 2f021d00 | Tokyo Revengers Motorcycle
+1901104 | 30021d00 | Sable Forest Motorcycle
+1901105 | 31021d00 | Royal Enfield Continental GT 650
+1901106 | 32021d00 | Royal Enfield Bullet 350
+190105007 | afc5540b | MWT-9 (7d)
+
+=====SIDECAR MOTORCYCLE====
+
+1902001 | b1051d00 | Sidecar Motorcycle
+1902002 | b2051d00 | 炫酷三人摩托车皮肤（测试）
+1902010 | ba051d00 | The Fool Sidecar Motorcycle
+1902011 | bb051d00 | Poker Riders Sidecar Motorcycle
+1902012 | bc051d00 | Mobile Fort Sidecar Motorcycle
+1902013 | bd051d00 | Wild Fever Sidecar Motorcycle
+1902015 | bf051d00 | Enchanted Pumpkin Sidecar Motorcycle
+1902016 | c0051d00 | Present Sidecar Motorcycle
+1902017 | c1051d00 | Neon Wave Sidecar Motorcycle
+1902018 | c2051d00 | Shell Throne Sidecar Motorcycle
+1902019 | c3051d00 | Vibrant Celebration Sidecar Motorcycle
+1902020 | c4051d00 | Deep Sea Cyscout Sidecar Motorcycle
+1902021 | c5051d00 | Guardian Motorcycle w/ sidecar
+1902022 | c6051d00 | Bunny Friends Sidecar Motorcycle
+1902023 | c7051d00 | Baby Shark & William Sidecar Motorcycle
+1902024 | c8051d00 | Flashy Fox Sidecar Motorcycle
+1902025 | c9051d00 | Panthera Prime Sidecar Motorcycle
+1902026 | ca051d00 | Destructabear Sidecar Motorcycle
+1902027 | cb051d00 | Flora Delight Sidecar Motorcycle (Lv. 1)
+1902028 | cc051d00 | Flora Delight Sidecar Motorcycle (Lv. 2)
+1902029 | cd051d00 | Flora Delight Sidecar Motorcycle (Lv. 3)
+1902030 | ce051d00 | Flora Delight Sidecar Motorcycle (Lv. 4)
+1902067 | f3051d00 | Violet Eclipse Sidecar Motorcycle
+
+=====DACIA====
+
+1903001 | 99091d00 | Dacia
+1903002 | 9a091d00 | Dacia轿车（橙）
+1903003 | 9b091d00 | Dacia轿车（白）
+1903004 | 9c091d00 | dacia轿车（黄）
+1903005 | 9d091d00 | Skeleton Hand Sedan
+1903006 | 9e091d00 | Golden Stripes Finish
+1903007 | 9f091d00 | Sheriff's Patrol Dacia
+1903008 | a0091d00 | New Yorker Dacia
+1903011 | a3091d00 | Count Dacia
+1903012 | a4091d00 | Pumpkin Dacia (Lv. 1)
+1903013 | a5091d00 | Pumpkin Dacia (Lv. 2)
+1903014 | a6091d00 | Pumpkin Dacia (Lv. 3)
+1903015 | a7091d00 | Castle Dacia (Lv. 1)
+1903016 | a8091d00 | Castle Dacia (Lv. 2)
+1903017 | a9091d00 | Castle Dacia (Lv. 3)
+1903018 | aa091d00 | Soaring Eagle Dacia
+1903019 | ab091d00 | R.P.D. Dacia
+1903020 | ac091d00 | Dragon Hunter Dacia
+1903021 | ad091d00 | Cherry Blossom Dacia
+1903022 | ae091d00 | Golden Trigger Dacia
+1903023 | af091d00 | Shark Dacia
+1903024 | b0091d00 | Infected Grizzly Dacia
+1903029 | b5091d00 | Golden Feather Dacia
+1903030 | b6091d00 | Black Cat Dacia
+1903031 | b7091d00 | Golden Jaws Dacia
+1903032 | b8091d00 | Speedy Reindeer Dacia (Lv. 1)
+1903033 | b9091d00 | Floral Dacia
+1903034 | ba091d00 | Speedy Reindeer Dacia (Lv. 2)
+1903035 | bb091d00 | Speedy Reindeer Dacia (Lv. 3)
+1903036 | bc091d00 | Gemstudded Dacia
+1903037 | bd091d00 | Blood Lotus Dacia
+1903039 | bf091d00 | Amphibian Hunter Dacia
+1903040 | c0091d00 | Anniversary Celebration Dacia
+1903041 | c1091d00 | Brilliant Snowstorm Modified Dacia
+1903042 | c2091d00 | Brilliant Snowstorm Modified Dacia
+1903043 | c3091d00 | Brilliant Snowstorm Modified Dacia
+1903044 | c4091d00 | Brilliant Snowstorm Modified Dacia
+1903045 | c5091d00 | Brilliant Snowstorm Modified Dacia
+1903046 | c6091d00 | Brilliant Snowstorm Modified Dacia
+1903051 | cb091d00 | Freedom Defender Dacia
+1903052 | cc091d00 | Leopard Dacia
+1903053 | cd091d00 | Butcher of Stalber Dacia
+1903054 | ce091d00 | Arabian Tales Dacia
+1903055 | cf091d00 | Zebra Dacia
+1903056 | d0091d00 | Gothic Lady Dacia
+1903057 | d1091d00 | Tulip Dacia
+1903058 | d2091d00 | Blooming Vibrance Dacia
+1903059 | d3091d00 | Phantom Illusionist Dacia
+1903060 | d4091d00 | Toxic Dacia
+1903061 | d5091d00 | Carrot Fanatic Dacia
+1903062 | d6091d00 | Bewitching Enchantress Dacia
+1903063 | d7091d00 | Taiyaki Dacia
+1903066 | da091d00 | Red Panda Dacia
+1903067 | db091d00 | Ghillie Lion Dacia
+1903068 | dc091d00 | Rainbow Unicorn Dacia
+1903069 | dd091d00 | Pink Cotton Dacia
+1903070 | de091d00 | MECHAGODZILLA Dacia
+1903071 | df091d00 | Tesla Roadster (Diamond)
+1903072 | e0091d00 | Tesla Roadster (Amethyst)
+1903073 | e1091d00 | Tesla Roadster (Digital Water)
+1903074 | e2091d00 | Koenigsegg Gemera (Silver Gray)
+1903075 | e3091d00 | Koenigsegg Gemera (Rainbow)
+1903076 | e4091d00 | Koenigsegg Gemera (Dawn)
+1903079 | e7091d00 | Lamborghini Estoque Oro
+1903080 | e8091d00 | Lamborghini Estoque Metal Grey
+1903081 | e9091d00 | Messi Collaboration Dacia
+1903082 | ea091d00 | Best Foul Dacia
+1903084 | ec091d00 | Zombie Mess Dacia (Lv. 1)
+1903085 | ed091d00 | Zombie Mess Dacia (Lv. 2)
+1903086 | ee091d00 | Zombie Mess Dacia (Lv. 3)
+1903087 | ef091d00 | Zombie Mess Dacia (Lv. 4)
+1903088 | f0091d00 | Dodge Charger SRT Hellcat - Fuchsia
+1903089 | f1091d00 | Dodge Charger SRT Hellcat - Tuscan Torque
+1903090 | f2091d00 | Dodge Charger SRT Hellcat Jailbreak - Violet Venom
+1903189 | 550a1d00 | Dodge Charger SRT Hellcat - Tuscan Torque
+1903190 | 560a1d00 | Dodge Charger SRT Hellcat Jailbreak - Violet Venom
+1903191 | 570a1d00 | Ghost Rosa
+1903192 | 580a1d00 | Ghost Violet
+1903193 | 590a1d00 | Ghost Gleam
+1903194 | 5a0a1d00 | Midknight Dacia (Lv. 1)
+1903195 | 5b0a1d00 | Midknight Dacia (Lv. 2)
+1903196 | 5c0a1d00 | Midknight Dacia (Lv. 3)
+1903197 | 5d0a1d00 | Midknight Dacia (Lv. 4)
+1903198 | 5e0a1d00 | SPY×FAMILY Dacia
+1903199 | 5f0a1d00 | Mech Hero Dacia
+1903200 | 600a1d00 | Bentley Flying Spur Mulliner (Nebula)
+1903201 | 610a1d00 | Bentley Flying Spur Mulliner (Damson over Silver Storm)
+1903202 | 620a1d00 | Serene Lumina Dacia
+1903203 | 630a1d00 | VW Käfer 1200L (Yellow)
+1903204 | 640a1d00 | VW Käfer 1200L (Creatures)
+1903205 | 650a1d00 | BE 6
+1903206 | 660a1d00 | Duneshine Dacia (Lv. 1)
+1903207 | 670a1d00 | Duneshine Dacia (Lv. 2)
+1903208 | 680a1d00 | Colossal Titan Muscle Dacia
+1903209 | 690a1d00 | Cart Titan Dacia
+1903210 | 6a0a1d00 | Shelby GT500 (Black & Red)
+1903211 | 6b0a1d00 | Shelby GT500 (Retro Invader)
+1903212 | 6c0a1d00 | Bee Sting Dacia
+1903213 | 6d0a1d00 | Bee Dacia
+1903214 | 6e0a1d00 | PUBGM X QWER Dacia
+1903215 | 6f0a1d00 | Bbangbbang's diary - Dacia
+1903216 | 700a1d00 | Lotus Emeya (Golden Sprint)
+1903217 | 710a1d00 | Lotus Emeya (Purple Volt)
+1903218 | 720a1d00 | Porsche Panamera Turbo S (Sapphire Blue)
+1903219 | 730a1d00 | Porsche Panamera Turbo S (Vipergreen)
+1903220 | 740A1D00 | Apollo Intensa Emozione (Molten Inferno)
+1903221 | 750A1D00 | Apollo Intensa Emozione (Phantom Violet)
+1903222 | 760A1D00 | Apollo Intensa Emozione (Showdown)
+1903223 | 770A1D00 | Apollo Intensa Emozione (Tempest)
+1903500 | 8c0b1d00 | Dacia轿车（老）
+19030790 | 06632201 | Lamborghini Estoque Oro
+19030791 | 07632201 | Lamborghini Estoque 金辉-战斗盒子
+19030800 | 10632201 | Lamborghini Estoque Metal Grey
+19030801 | 11632201 | Lamborghini Estoque 金属灰-战斗盒子
+19031910 | 66672201 | 迅灵瑰星-盒子
+19031911 | 67672201 | 迅灵瑰星-战斗盒子
+19031920 | 70672201 | 迅灵紫夜-盒子
+19031921 | 71672201 | 迅灵紫夜-战斗盒子
+19031930 | 7a672201 | 迅灵光穹-盒子
+19031931 | 7b672201 | 迅灵光穹-战斗盒子
+19032000 | c0672201 | Bentley Flying Spur Mulliner (Nebula)
+19032001 | c1672201 | Bentley Flying Spur Mulliner（蔚蓝星云）-战斗盒子
+19032010 | ca672201 | Bentley Flying Spur Mulliner（峡湾湍流）-盒子
+19032011 | cb672201 | Bentley Flying Spur Mulliner（峡湾湍流）-战斗盒子
+19032120 | 38682201 | 蜂暴烈芒 -盒子
+19032121 | 39682201 | 蜂暴烈芒 -战斗盒子
+19032130 | 42682201 | 疾影黄蜂 -盒子
+19032131 | 43682201 | 疾影黄蜂 -战斗盒子
+19032180 | 74682201 | Porsche Panamera Turbo S(宝石蓝)-盒子
+19032181 | 75682201 | Porsche Panamera Turbo S(宝石蓝)-战斗盒子
+19032190 | 7e682201 | Porsche Panamera Turbo S(蝰蛇绿)-盒子
+19032191 | 7f682201 | Porsche Panamera Turbo S(蝰蛇绿)-战斗盒子
+19032200 | 88682201 | 
+19032201 | 89682201 | 
+19032210 | 92682201 | 
+19032211 | 93682201 | 
+19032220 | 9C682201 | 
+19032221 | 9D682201 | 
+19032230 | A6682201 | 
+19032231 | A7682201 | 
+190300503 | 57c1570b | Skeleton Hand Sedan (3d)
+
+=====BUGGY====
+
+1907001 | 39191d00 | Buggy
+1907002 | 3a191d00 | buggy越野车皮肤（测试）
+1907003 | 3b191d00 | buggy越野车（）
+1907004 | 3c191d00 | buggy越野车（）
+1907005 | 3d191d00 | buggy越野车（）
+1907006 | 3e191d00 | buggy越野车（）
+1907007 | 3f191d00 | Circus Buggy
+1907008 | 40191d00 | Golden Dream Buggy
+1907010 | 42191d00 | Bowknot Buggy
+1907011 | 43191d00 | Lifesaver Buggy
+1907012 | 44191d00 | Black Magma Buggy
+1907013 | 45191d00 | Naughty Christmas Buggy
+1907014 | 46191d00 | Off-road Buggy
+1907016 | 48191d00 | Street Art Buggy
+1907018 | 4a191d00 | Bloodthirsty Fiend Buggy
+1907019 | 4b191d00 | Ryan Buggy
+1907021 | 4d191d00 | Godzilla Buggy
+1907022 | 4e191d00 | Enchantress Buggy
+1907023 | 4f191d00 | Past Glory Buggy
+1907025 | 51191d00 | The Pummeler Buggy
+1907026 | 52191d00 | Anniversary Celebration Buggy
+1907027 | 53191d00 | Flamerider Buggy
+1907028 | 54191d00 | Alligator Buggy
+1907029 | 55191d00 | Pink & Blue Harmony Buggy
+1907030 | 56191d00 | Alan Walker 2021 Buggy
+1907032 | 58191d00 | Jade Palace Buggy
+1907033 | 59191d00 | Radiant Phoenix Adarna Buggy
+1907034 | 5a191d00 | Butterfinger Buggy
+1907035 | 5b191d00 | Ancient Guardian Buggy
+1907036 | 5c191d00 | Sapphire Surfer Buggy
+1907037 | 5d191d00 | Rash Shark Buggy
+1907038 | 5e191d00 | Football Ambassador Buggy
+1907040 | 60191d00 | Polaris Buggy - Desert Blast
+1907041 | 61191d00 | Polaris Buggy - Blue Strike
+1907043 | 63191d00 | Golden Wings Buggy
+1907044 | 64191d00 | Ceratops Blitz Buggy (Lv. 1)
+1907045 | 65191d00 | Ceratops Blitz Buggy (Lv. 2)
+1907046 | 66191d00 | Ceratops Blitz Buggy (Lv. 3)
+1907047 | 67191d00 | Ceratops Blitz Buggy (Lv. 4)
+1907048 | 68191d00 | Sweet Kiss Buggy
+1907049 | 69191d00 | RS Swaggy Buggy
+1907050 | 6a191d00 | Endless Craze Buggy
+1907051 | 6b191d00 | Lightwing Odyssey Buggy
+1907052 | 6c191d00 | Precision Carver Buggy
+1907053 | 6d191d00 | Lightwing Odyssey Buggy
+1907054 | 6e191d00 | McLaren Formula 1 Team Race Car (Digital)
+1907055 | 6f191d00 | Swiftsoul Buggy
+1907056 | 70191d00 | DP Starlight Ride Buggy
+1907058 | 72191d00 | McLaren Formula 1 Team Race Car
+1907059 | 73191d00 | McLaren Formula 1 Team Race Car (Victory)
+1907060 | 74191d00 | Goldensands Apex Buggy (Lv. 1)
+1907061 | 75191d00 | Goldensands Apex Buggy (Lv. 2)
+1907062 | 76191d00 | Goldensands Apex Buggy (Lv. 3)
+1907063 | 77191d00 | Goldensands Apex Buggy (Lv. 4)
+1907064 | 78191d00 | 2025 Esports Buggy
+1907065 | 79191d00 | Kaiju No. 10 Buggy
+1907066 | 7a191d00 | Speedster Buggy
+1907067 | 7b191d00 | Victory Rush Buggy
+1907068 | 7c191d00 | Spirited Veil Buggy
+1907069 | 7d191d00 | Dragon's Ascent Buggy (Lv. 1)
+1907070 | 7e191d00 | Dragon's Ascent Buggy (Lv. 2)
+1907071 | 7f191d00 | Dragon's Ascent Buggy (Lv. 3)
+1907072 | 80191d00 | Dragon's Ascent Buggy (Lv. 4)
+1907073 | 81191D00 | Catch! Teenieping - Buggy
+1907074 | 82191D00 | Eden Charge Buggy
+19070540 | 4cfe2201 | 迈凯伦F1车队赛车虚境 -盒子
+19070580 | 74fe2201 | 迈凯伦F1车队赛车 -盒子
+19070590 | 7efe2201 | 迈凯伦F1车队赛车凯旋 -盒子
+
+=====UAZ MAIN====
+
+1908001 | 211d1d00 | UAZ
+1908002 | 221d1d00 | The Skulls Off-Roader
+1908003 | 231d1d00 | Checkered UAZ
+1908005 | 251d1d00 | Summertime UAZ
+1908006 | 261d1d00 | Golden Dream UAZ
+1908007 | 271d1d00 | Winning Chicken UAZ
+1908008 | 281d1d00 | Offroading UAZ
+1908009 | 291d1d00 | Hellfire UAZ
+1908010 | 2a1d1d00 | Wintertime UAZ
+1908011 | 2b1d1d00 | Winter Wonderland UAZ
+1908012 | 2c1d1d00 | MOMMYSON UAZ
+1908013 | 2d1d1d00 | Smooth Hitman UAZ
+1908015 | 2f1d1d00 | Mischievous Mascots UAZ
+1908016 | 301d1d00 | Camo - UAZ
+1908017 | 311d1d00 | Golden Crane UAZ
+1908018 | 321d1d00 | Golden Falcon - UAZ
+1908019 | 331d1d00 | BAPE X PUBGM CAMO UAZ
+1908021 | 351d1d00 | Seasonal Delicacies UAZ
+1908023 | 371d1d00 | Lifeguard UAZ
+1908030 | 3e1d1d00 | Godzilla UAZ (Lv. 1)
+1908031 | 3f1d1d00 | Godzilla UAZ (Lv. 2)
+1908032 | 401d1d00 | Godzilla UAZ (Lv. 3)
+1908033 | 411d1d00 | Enchanted Pumpkin UAZ (Lv. 1)
+1908034 | 421d1d00 | Mischievous Night UAZ
+1908035 | 431d1d00 | Enchanted Pumpkin UAZ (Lv. 2)
+1908036 | 441d1d00 | Enchanted Pumpkin UAZ (Lv. 3)
+1908037 | 451d1d00 | Anniversary Celebration UAZ
+1908039 | 471d1d00 | Lieutenant Parsec UAZ
+1908040 | 481d1d00 | Butcher of Stalber UAZ
+1908041 | 491d1d00 | Purple Sonic UAZ
+1908043 | 4b1d1d00 | PMGC UAZ
+1908047 | 4f1d1d00 | Winter Queen UAZ
+1908049 | 511d1d00 | Aegis (Lv. 1)
+1908050 | 521d1d00 | Aegis (Lv. 2)
+1908051 | 531d1d00 | Aegis (Lv. 3)
+1908052 | 541d1d00 | Aegis (Lv. 4)
+1908053 | 551d1d00 | Aegis (Lv. 5)
+1908054 | 561d1d00 | Aegis (Lv. 6)
+1908055 | 571d1d00 | Aegis (Lv. 7)
+1908056 | 581d1d00 | Aegis (Lv. 8)
+1908057 | 591d1d00 | Brilliant Banner UAZ
+1908059 | 5b1d1d00 | Emerald Punk UAZ
+1908060 | 5c1d1d00 | Pan Pan UAZ
+1908061 | 5d1d1d00 | Cute Kitten UAZ
+1908062 | 5e1d1d00 | Brown UAZ
+1908063 | 5f1d1d00 | Amazing Journey UAZ
+1908064 | 601d1d00 | White Dragon UAZ
+1908066 | 621d1d00 | Lamborghini Urus Pink
+1908067 | 631d1d00 | Lamborghini Urus Giallo Inti
+1908068 | 641d1d00 | Robust Wild
+1908069 | 651d1d00 | Robust Night City
+1908070 | 661d1d00 | Robust Universe
+1908075 | 6b1d1d00 | Maserati Levante Blu Emozione
+1908076 | 6c1d1d00 | Maserati Luce Arancione
+1908077 | 6d1d1d00 | Maserati Levante Neon Urbano
+1908078 | 6e1d1d00 | Maserati Levante Firmamento
+1908080 | 701d1d00 | Dazzling Carnival UAZ
+1908081 | 711d1d00 | Desert Racing UAZ
+1908082 | 721d1d00 | Bruce Lee UAZ
+1908083 | 731d1d00 | Son Goku UAZ
+1908084 | 741d1d00 | Aston Martin DBX707 (Neon Purple)
+1908085 | 751d1d00 | Aston Martin DBX707 (Quasar Blue)
+1908086 | 761d1d00 | Dodge Hornet - Scarlet Sting
+1908087 | 771d1d00 | Choonsik&RYAN UAZ
+1908088 | 781d1d00 | Dodge Hornet GLH Concept - Redline
+1908089 | 791d1d00 | Dodge Hornet - Sunburst
+1908091 | 7b1d1d00 | HUNTER×HUNTER UAZ
+1908094 | 7e1d1d00 | Bentley Bentayga Azure (Galaxy Glitter)
+1908095 | 7f1d1d00 | Bentley Bentayga Azure (Magnetic)
+1908096 | 801d1d00 | Night Phantasma UAZ (Lv. 1)
+1908097 | 811d1d00 | Night Phantasma UAZ (Lv. 2)
+1908098 | 821d1d00 | Night Phantasma UAZ (Lv. 3)
+1908099 | 831d1d00 | Night Phantasma UAZ (Lv. 4)
+1908100 | 841d1d00 | Godzilla King of the Monsters UAZ
+1908101 | 851d1d00 | Thundergear Ignition UAZ
+1908102 | 861d1d00 | Steamclad Racer UAZ
+1908104 | 881d1d00 | Thundergear Ignition UAZ
+1908105 | 891d1d00 | Sugarplush Voyage UAZ
+1908106 | 8a1d1d00 | Boldline Cruiser UAZ (Lv. 1)
+1908107 | 8b1d1d00 | Boldline Cruiser UAZ (Lv. 2)
+1908108 | 8c1d1d00 | Porsche Cayenne Turbo GT (Hot Streak)
+1908109 | 8d1d1d00 | Porsche Cayenne Turbo GT (Lavaorange)
+1908110 | 8e1d1d00 | Misty Soul UAZ
+1908188 | dc1d1d00 | Dodge Hornet GLH Concept - Redline
+1908189 | dd1d1d00 | Dodge Hornet - Sunburst
+19080660 | d4252301 | Lamborghini Urus Pink
+19080661 | d5252301 | Lamborghini URUS 珠彩-战斗盒子
+19080670 | de252301 | Lamborghini Urus Giallo Inti
+19080671 | df252301 | Lamborghini URUS 骄阳-战斗盒子
+19080680 | e8252301 | 罗伯斯特原野-盒子
+19080681 | e9252301 | 罗伯斯特原野-战斗盒子
+19080690 | f2252301 | 罗伯斯特子夜-盒子
+19080691 | f3252301 | 罗伯斯特子夜-战斗盒子
+19080700 | fc252301 | 罗伯斯特凌霄-盒子
+19080701 | fd252301 | 罗伯斯特凌霄-战斗盒子
+19080840 | 88262301 | Aston Martin DBX707 霓虹紫-盒子
+19080841 | 89262301 | Aston Martin DBX707 霓虹紫-盒子战斗
+19080850 | 92262301 | Aston Martin DBX707 星云蓝-盒子
+19080851 | 93262301 | Aston Martin DBX707 星云蓝-盒子战斗
+19080940 | ec262301 | Bentley Betayga Azure（繁花新雨）-盒子
+19080941 | ed262301 | Bentley Betayga Azure（繁花新雨）-战斗盒子
+19080950 | f6262301 | Bentley Betayga Azure（静谧永夜）-盒子
+19080951 | f7262301 | Bentley Bentayga Azure (Magnetic)
+19081080 | 78272301 | Porsche Cayenne Turbo GT(黑白棱镜)-盒子
+19081081 | 79272301 | Porsche Cayenne Turbo GT(黑白棱镜)-战斗盒子
+19081090 | 82272301 | Porsche Cayenne Turbo GT(熔岩橙)-盒子
+19081091 | 83272301 | Porsche Cayenne Turbo GT(熔岩橙)-战斗盒子
+
+=====UAZ OPEN TOP====
+
+1910001 | f1241d00 | UAZ (Open Top)
+1910002 | f2241d00 | Lumberjack UAZ
+1910010 | fa241d00 | Deep Sea UAZ
+1910013 | fd241d00 | Anubian Magistrate UAZ
+1910015 | ff241d00 | Royal UAZ
+1910016 | 00251d00 | Regal Overlord UAZ
+1910018 | 02251d00 | Mecha Ant UAZ
+1910019 | 03251d00 | Coastal UAZ
+1910020 | 04251d00 | PMGC 2021 UAZ
+1910021 | 05251d00 | Gundala Guruh UAZ
+1910022 | 06251d00 | Merry Yeti UAZ
+1910023 | 07251d00 | Monster UAZ
+1910024 | 08251d00 | Noble Ruler UAZ (Open Top)
+1910025 | 09251d00 | Evangelion-02 UAZ
+1910026 | 0a251d00 | BGMI Esports UAZ
+1910027 | 0b251d00 | PMJL SEASON3 UAZ
+1910028 | 0c251d00 | PMPS 2022 UAZ
+1910029 | 0d251d00 | 2022 PMGC UAZ
+1910083 | 43251d00 | Steamclad Racer UAZ
+1910500 | e4261d00 | 敞篷UAZ吉普车(老)
+19100001 | 61712301 | Pico Bus
+19100002 | 62712301 | Vibrant Era Bus
+19101001 | 49752301 | Blanc
+19102001 | 31792301 | Optimus Prime
+19103001 | 197d2301 | Optimus Prime - Vehicle Mode
+19104001 | 01812301 | Megatron
+19105001 | e9842301 | Megatron - Vehicle Mode
+19106001 | D1882301 | Tracked Amphicarrier
+
+=====MIRADO====
+
+1914001 | 91341d00 | Mirado (Closed Top)
+1914002 | 92341d00 | Mirado (Closed Top)
+1914003 | 93341d00 | Mirado (Closed Top)
+1914004 | 94341d00 | Mirado (Closed Top)
+1914011 | 9b341d00 | Armored Hunter Mirado
+1915001 | 79381d00 | Mirado (Open Top)
+1915002 | 7a381d00 | Mirado (Open Top)
+1915003 | 7b381d00 | Mirado (Open Top)
+1915004 | 7c381d00 | Mirado (Open Top)
+1915005 | 7d381d00 | Aston Martin DBS Volante (Deep Cosmos)
+1915006 | 7e381d00 | Aston Martin DBS Volante (Celestial Pink)
+1915007 | 7f381d00 | Aston Martin DBS Volante (Black-Bronze Satin)
+1915008 | 80381d00 | Bentley Continental GTC Mulliner (Holocrystal)
+1915009 | 81381d00 | Bentley Continental GTC Mulliner (Tanzanite Purple)
+1915010 | 82381d00 | VW New Beetle Convertible (Pink)
+1915011 | 83381d00 | Anniversary Mirado
+1915012 | 84381d00 | VW New Beetle Convertible (Monster)
+1915013 | 85381d00 | Sweet Reverie Convertible (Lv. 1)
+1915014 | 86381d00 | Sweet Reverie Convertible (Lv. 2)
+1915015 | 87381d00 | Sweet Reverie Convertible (Lv. 3)
+1915016 | 88381d00 | Sweet Reverie Convertible (Lv. 4)
+1915017 | 89381d00 | Megatron Convertible
+1915018 | 8a381d00 | Galvatron Convertible
+1915019 | 8b381d00 | Moonflutter Surge Convertible
+1915020 | 8c381d00 | Moonflutter Surge Convertible
+1915021 | 8d381d00 | Porsche 911 Carrera 4 GTS Cabriolet (Galaxy Spark)
+1915022 | 8e381d00 | Porsche 911 Carrera 4 GTS Cabriolet (Rubystar)
+1915023 | 8F381D00 | Dimensional Shuttle Convertible (Lv. 1)
+1915024 | 90381D00 | Dimensional Shuttle Convertible (Lv. 2)
+1915025 | 91381D00 | Dimensional Shuttle Convertible (Lv. 3)
+1915026 | 92381D00 | Dimensional Shuttle Convertible (Lv. 4)
+1915099 | db381d00 | Golden Mirado (Open Top)
+19150050 | e2342401 | Aston Martin DBS Volante 星穹银河-盒子
+19150051 | e3342401 | Aston Martin DBS Volante 星穹银河-盒子战斗
+19150060 | ec342401 | Aston Martin DBS Volante 幻境粉钻-盒子
+19150061 | ed342401 | Aston Martin DBS Volante 幻境粉钻-盒子战斗
+19150070 | f6342401 | Aston Martin DBS Volante 极夜古铜-盒子
+19150071 | f7342401 | Aston Martin DBS Volante 极夜古铜-盒子战斗
+19150080 | 00352401 | Bentley Continental GT Convertible Mulliner（玲珑梦境）-盒子
+19150081 | 01352401 | Bentley Continental GT Convertible Mulliner（玲珑梦境）-战斗盒子
+19150090 | 0a352401 | Bentley Continental GT Convertible Mulliner（紫衣贵族）-盒子
+19150091 | 0b352401 | Bentley Continental GT Convertible Mulliner（紫衣贵族）-战斗盒子
+19150170 | 5a352401 | 天罚威震 -盒子
+19150171 | 5b352401 | 天罚威震 -战斗盒子
+19150180 | 64352401 | 深渊仲裁 -盒子
+19150181 | 65352401 | 深渊仲裁 -战斗盒子
+19150210 | 82352401 | Porsche 911 Carrera 4 GTS Cabriolet(星光紫)-盒子
+19150211 | 83352401 | Porsche 911 Carrera 4 GTS Cabriolet(星光紫)-战斗盒子
+19150220 | 8c352401 | Porsche 911 Carrera 4 GTS Cabriolet(星光宝石红)-盒子
+19150221 | 8d352401 | Porsche 911 Carrera 4 GTS Cabriolet(星光宝石红)-战斗盒子
+
+====COUPE RB====
+
+1961001 | 29ec1d00 | Coupe RB
+1961007 | 2fec1d00 | McLaren 570S (Zenith Black)
+1961010 | 32ec1d00 | McLaren 570S (Lunar White)
+1961012 | 34ec1d00 | McLaren 570S (Raspberry)
+1961013 | 35ec1d00 | McLaren 570S (Glory White)
+1961014 | 36ec1d00 | McLaren 570S (Royal Black)
+1961015 | 37ec1d00 | McLaren 570S (Pearlescent)
+1961016 | 38ec1d00 | Koenigsegg Jesko (Silver Gray)
+1961017 | 39ec1d00 | Koenigsegg Jesko (Rainbow)
+1961018 | 3aec1d00 | Koenigsegg Jesko (Dawn)
+1961020 | 3cec1d00 | Lamborghini Aventador SVJ Verde Alceo
+1961021 | 3dec1d00 | Lamborghini Centenario Galassia
+1961024 | 40ec1d00 | Lamborghini Aventador SVJ Blue
+1961025 | 41ec1d00 | Lamborghini Centenario Carbon Fiber
+1961029 | 45ec1d00 | Koenigsegg One:1 Gilt
+1961030 | 46ec1d00 | Koenigsegg One:1 Cyber Nebula
+1961031 | 47ec1d00 | Koenigsegg One:1 Jade
+1961032 | 48ec1d00 | Koenigsegg One:1 Phoenix
+1961033 | 49ec1d00 | Warp Green
+1961034 | 4aec1d00 | Warp Dawn
+1961035 | 4bec1d00 | Warp Universe
+1961036 | 4cec1d00 | Dodge Challenger SRT Hellcat - Blaze
+1961037 | 4dec1d00 | Dodge Challenger SRT Hellcat - Lime
+1961038 | 4eec1d00 | Maserati MC20 Bianco Audace
+1961039 | 4fec1d00 | Maserati MC20 Rosso Vincente
+1961040 | 50ec1d00 | Maserati MC20 Sogni
+1961041 | 51ec1d00 | Bugatti Veyron 16.4 (Shining)
+1961042 | 52ec1d00 | Bugatti Veyron 16.4 (Gold)
+1961043 | 53ec1d00 | Bugatti Veyron 16.4
+1961044 | 54ec1d00 | Bugatti La Voiture Noire
+1961045 | 55ec1d00 | Bugatti La Voiture Noire (Alloy)
+1961046 | 56ec1d00 | Bugatti La Voiture Noire (Warrior)
+1961047 | 57ec1d00 | Bugatti La Voiture Noire (Nebula)
+1961048 | 58ec1d00 | Aston Martin Valkyrie (Luminous Diamond)
+1961049 | 59ec1d00 | Aston Martin Valkyrie (Racing Green)
+1961050 | 5aec1d00 | Dodge Challenger SRT Hellcat Jailbreak - Hellfire
+1961051 | 5bec1d00 | Pagani Zonda R (Tricolore Carbon)
+1961052 | 5cec1d00 | Pagani Zonda R (Bianco Benny)
+1961053 | 5dec1d00 | Pagani Zonda R (Melodic Midnight)
+1961054 | 5eec1d00 | Pagani Imola (Grigio Montecarlo)
+1961055 | 5fec1d00 | Pagani Imola (Crystal Clear Carbon)
+1961056 | 60ec1d00 | Pagani Imola (Nebula Dream)
+1961057 | 61ec1d00 | Pagani Imola (Arctic Aegis)
+1961058 | 62ec1d00 | Shelby 427 Cobra (Blue & White)
+1961059 | 63ec1d00 | Shelby 427 Cobra (Inkstorm)
+1961060 | 64ec1d00 | Lotus Emira (Deep Grove)
+1961061 | 65ec1d00 | Lotus Emira (Azure Drift)
+1961062 | 66ec1d00 | Porsche 918 Spyder (Aquastream)
+1961063 | 67ec1d00 | Porsche 918 Spyder (964Polarsilvermetallic)
+1961064 | 68ec1d00 | Porsche 918 Spyder (Pink Racing Edition)
+1961065 | 69EC1D00 | Apollo EVO (Radiant Gold)
+1961066 | 6AEC1D00 | Apollo EVO (Sunset)
+1961067 | 6BEC1D00 | Apollo EVO (Glacier)
+1961136 | b0ec1d00 | Dodge Challenger SRT Hellcat - Blaze
+1961137 | b1ec1d00 | Bentley Batur (Holoprism)
+1961138 | b2ec1d00 | Bentley Batur (Solar Pulse)
+1961139 | b3ec1d00 | Bentley Batur (Bonneville Pearlescent Silver)
+1961140 | b4ec1d00 | SSC Tuatara Rose Phantom
+1961141 | b5ec1d00 | SSC Tuatara Sky Crane
+1961142 | b6ec1d00 | SSC Tuatara Striker Dawn's Edge
+1961143 | b7ec1d00 | SSC Tuatara Striker Blue Nightscape
+1961144 | b8ec1d00 | Lamborghini Invencible Rosso Efesto
+1961145 | b9ec1d00 | Lamborghini Invencible Nebula Drift
+1961147 | bbec1d00 | McLaren P1 (Starry Sky)
+1961148 | bcec1d00 | McLaren P1 (Fantasy Pink)
+1961149 | bdec1d00 | McLaren P1 (Volcano Yellow)
+1961150 | beec1d00 | Dodge Challenger SRT Hellcat Jailbreak - Hellfire
+1961151 | bfec1d00 | Bugatti Bolide (Chromium)
+1961152 | c0ec1d00 | Bugatti Bolide (Spiderlily)
+1961153 | c1ec1d00 | Bugatti Bolide (Bluebolt)
+19610070 | d6392b01 | McLaren 570S（曜黑）-盒子
+19610100 | f4392b01 | McLaren 570S（月白）-盒子
+19610101 | f5392b01 | McLaren 570S（月白）-战斗盒子
+19610120 | 083a2b01 | McLaren 570S（莓粉）-盒子
+19610121 | 093a2b01 | McLaren 570S（莓粉）-战斗盒子
+19610130 | 123a2b01 | McLaren 570S（耀白）-盒子
+19610131 | 133a2b01 | McLaren 570S（耀白）-战斗盒子
+19610140 | 1c3a2b01 | McLaren 570S（黑金）-盒子
+19610141 | 1d3a2b01 | McLaren 570S（黑金）-战斗盒子
+19610150 | 263a2b01 | McLaren 570S（炫彩）-盒子
+19610151 | 273a2b01 | McLaren 570S（炫彩）-战斗盒子
+19610171 | 3b3a2b01 | McLaren 570S（曜黑）-战斗盒子
+19610200 | 583a2b01 | Lamborghini Aventador SVJ Verde Alceo
+19610201 | 593a2b01 | Lamborghini Aventador SVJ 绿野-战斗盒子
+19610210 | 623a2b01 | Lamborghini Centenario Galassia
+19610211 | 633a2b01 | Lamborghini Centenario 银河-战斗盒子
+19610240 | 803a2b01 | Lamborghini Aventador SVJ Blue
+19610241 | 813a2b01 | Lamborghini Aventador SVJ 魅蓝-战斗盒子
+19610250 | 8a3a2b01 | Lamborghini Centenario Carbon Fiber
+19610251 | 8b3a2b01 | Lamborghini Centenario 夜都-战斗盒子
+19610330 | da3a2b01 | 跃迁翠岚-盒子
+19610331 | db3a2b01 | 跃迁翠岚-战斗盒子
+19610340 | e43a2b01 | 跃迁曙光-盒子
+19610341 | e53a2b01 | 跃迁曙光-战斗盒子
+19610350 | ee3a2b01 | 跃迁凌霄-盒子
+19610351 | ef3a2b01 | 跃迁凌霄-战斗盒子
+19610410 | 2a3b2b01 | Bugatti Veyron 炫彩云霓 -盒子
+19610411 | 2b3b2b01 | Bugatti Veyron 炫彩云霓 -战斗盒子
+19610420 | 343b2b01 | Bugatti Veyron 极简黑金 -盒子
+19610421 | 353b2b01 | Bugatti Veyron 极简黑金 -战斗盒子
+19610430 | 3e3b2b01 | Bugatti Veyron 蔚蓝苍穹 -盒子
+19610431 | 3f3b2b01 | Bugatti Veyron 蔚蓝苍穹 -战斗盒子
+19610440 | 483b2b01 | Bugatti La Voiture Noire -盒子
+19610441 | 493b2b01 | Bugatti La Voiture Noire -战斗盒子
+19610450 | 523b2b01 | Bugatti 白金星云 -盒子
+19610451 | 533b2b01 | Bugatti 白金星云 -战斗盒子
+19610460 | 5c3b2b01 | Bugatti 红武士 -盒子
+19610461 | 5d3b2b01 | Bugatti 红武士 -战斗盒子
+19610470 | 663b2b01 | Bugatti 寒港星云 -盒子
+19610471 | 673b2b01 | Bugatti 寒港星云 -战斗盒子
+19610480 | 703b2b01 | Aston Martin Valkyrie Spider 宝钻辉光
+19610481 | 713b2b01 | Aston Martin Valkyrie Spider 宝钻辉光战斗
+19610490 | 7a3b2b01 | Aston Martin Valkyrie Spider 极光绿影-盒子
+19610491 | 7b3b2b01 | Aston Martin Valkyrie Spider 极光绿影-盒子战斗
+19610510 | 8e3b2b01 | Pagani Zonda R 凝彩幻壳-盒子
+19610511 | 8f3b2b01 | Pagani Zonda R 凝彩幻壳-战斗盒子
+19610520 | 983b2b01 | Pagani Zonda R 白皓本尼-盒子
+19610521 | 993b2b01 | Pagani Zonda R 白皓本尼-战斗盒子
+19610530 | a23b2b01 | Pagani Zonda R律动之夜-盒子
+19610531 | a33b2b01 | Pagani Zonda R律动之夜-战斗盒子
+19610540 | ac3b2b01 | Pagani lmola 苍灰山脊-盒子
+19610541 | ad3b2b01 | Pagani lmola 苍灰山脊-战斗盒子
+19610550 | b63b2b01 | Pagani lmola 纯澈暗烬-盒子
+19610551 | b73b2b01 | Pagani lmola 纯澈暗烬-战斗盒子
+19610560 | c03b2b01 | Pagani lmola 星云幻彩-盒子
+19610561 | c13b2b01 | Pagani lmola 星云幻彩-战斗盒子
+19610570 | ca3b2b01 | Pagani lmola 极地寒甲-盒子
+19610571 | cb3b2b01 | Pagani lmola 极地寒甲-战斗盒子
+19610620 | fc3b2b01 | Porsche 918 Spyder(水波纹)-盒子
+19610621 | fd3b2b01 | Porsche 918 Spyder(水波纹)-战斗盒子
+19610630 | 063c2b01 | Porsche 918 Spyder(极光银)-盒子
+19610631 | 073c2b01 | Porsche 918 Spyder(极光银)-战斗盒子
+19610640 | 103c2b01 | Porsche 918 Spyder(粉红猪)-盒子
+19610641 | 113c2b01 | Porsche 918 Spyder(粉红猪)-战斗盒子
+19610650 | 1A3C2B01 | 
+19610651 | 1B3C2B01 | 
+19610660 | 243C2B01 | 
+19610661 | 253C2B01 | 
+19610670 | 2E3C2B01 | 
+19610671 | 2F3C2B01 | 
+19611370 | ea3e2b01 | Bentley Batur（潋滟宝钻）-盒子
+19611371 | eb3e2b01 | Bentley Batur（潋滟宝钻）-战斗盒子
+19611380 | f43e2b01 | Bentley Batur （时光尽头）-盒子
+19611381 | f53e2b01 | Bentley Batur （时光尽头）-战斗盒子
+19611390 | fe3e2b01 | 310两座跑车-盒子
+19611391 | ff3e2b01 | 310两座跑车-战斗盒子
+19611440 | 303f2b01 | Lamborghini Invencible Rosso Efesto
+19611441 | 313f2b01 | 兰博基尼1-战斗盒子
+19611450 | 3a3f2b01 | Lamborghini Invencible Nebula Drift
+19611451 | 3b3f2b01 | 兰博基尼2-战斗盒子
+19611470 | 4e3f2b01 | 迈凯伦P1星空 -盒子
+19611471 | 4f3f2b01 | 迈凯伦P1星空 -战斗盒子
+19611480 | 583f2b01 | 迈凯伦P1梦幻粉 -盒子
+19611481 | 593f2b01 | 迈凯伦P1梦幻粉 -战斗盒子
+19611490 | 623f2b01 | 迈凯伦P1火山黄 -盒子
+19611491 | 633f2b01 | 迈凯伦P1火山黄 -战斗盒子
+19611510 | 763f2b01 | Bugatti Bolide 镜面刀锋 -盒子
+19611511 | 773f2b01 | Bugatti Bolide 镜面刀锋 -战斗盒子
+19611520 | 803f2b01 | Bugatti Bolide 曼珠沙华 -盒子
+19611521 | 813f2b01 | Bugatti Bolide 曼珠沙华 -战斗盒子
+19611530 | 8a3f2b01 | Bugatti Bolide 冰湖幻影 -盒子
+19611531 | 8b3f2b01 | Bugatti Bolide 冰湖幻影 -战斗盒子
+
+=====OTHERS====
+1911001 | d9281d00 | PG-117
+1911002 | da281d00 | PG117船皮肤（测试）
+1911003 | db281d00 | Lifesaver Speedboat
+1911004 | dc281d00 | Chicken Speedboat
+1911005 | dd281d00 | Hungry Shark Speedboat
+1911006 | de281d00 | The Seven Seas Speedboat
+1911007 | df281d00 | Neko Sakura Speedboat
+1911008 | e0281d00 | Pineapple Speedboat
+1911010 | e2281d00 | Cute Penguin Speedboat
+1911011 | e3281d00 | Armored Carrier
+1911012 | e4281d00 | Kong Team Speedboat
+1911013 | e5281d00 | Imperial Gold Speedboat
+1911014 | e6281d00 | Violet Venture Jet Ski
+1911015 | e7281d00 | Frigid Sea Speedboat
+1911016 | e8281d00 | Luminarch Watcher Speedboat (Lv. 1)
+1911017 | e9281d00 | Luminarch Watcher Speedboat (Lv. 2)
+1911018 | ea281d00 | Luminarch Watcher Speedboat (Lv. 3)
+1911019 | eb281d00 | Luminarch Watcher Speedboat (Lv. 4)
+1911020 | ec281d00 | TEAM SONIC Speedboat
+1912001 | c12c1d00 | Jet Ski
+1912002 | c22c1d00 | Baseball Jet Ski
+1912003 | c32c1d00 | Wrestling Motorboat
+1912010 | ca2c1d00 | Blue Creature Jet Ski
+1912012 | cc2c1d00 | General Beetle Jet Ski
+1916001 | 613c1d00 | Rony
+1916002 | 623c1d00 | Rony
+1916003 | 633c1d00 | Rony
+1916004 | 643c1d00 | Tesla Cybertruck (Splendid-Silver)
+1916005 | 653c1d00 | Tesla Cybertruck (Dystopia Blue)
+1916006 | 663c1d00 | Tesla Cybertruck (Black-Quartz)
+1917001 | 49401d00 | Scooter
+1917002 | 4a401d00 | Scooter
+1917003 | 4b401d00 | Scooter
+1917004 | 4c401d00 | Scooter
+1917005 | 4d401d00 | Night Yonder Scooter
+1917006 | 4e401d00 | Phantasma Bloom Scooter
+1918001 | 31441d00 | Snowmobile
+1918010 | 3a441d00 | Ice Sculpture Snowmobile
+1918011 | 3b441d00 | Guardian of the North Snowmobile
+1918012 | 3c441d00 | Polar Roamer Snowbike
+1919001 | 19481d00 | Tukshai
+1919010 | 22481d00 | Happy Tukshai
+1919011 | 23481d00 | 8-bit Unicorn Tukshai
+19171541 | d5882401 | 迈凯伦F1车队赛车虚境 -战斗盒子
+19171581 | fd882401 | 迈凯伦F1车队赛车 -战斗盒子
+19171591 | 07892401 | 迈凯伦F1车队赛车凯旋 -战斗盒子
