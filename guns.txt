@@ -6,9 +6,6 @@
 1101102041 | Papillon Kiss - ACE32 (Lv. 8)
 1101102049 | Butterfly Whispers - ACE32 (Lv. 8)
 
---- ASM ---
-1101101007 | Bloodwing Raven - ASM Abakan (Lv. 7)
-
 --- M416 ---
 1101004046 | Glacier - M416 (Lv. 7)
 1101004062 | The Fool - M416 (Lv. 7)
@@ -70,6 +67,7 @@
 1103003079 | Valor's Requiem - AWM (Lv. 7)
 1103003087 | Serpengleam - AWM (Lv. 7)
 1103003092 | Crimson Petal - AWM (Lv. 5)
+1103003099 | Chaos Calamity - AWM (Lv. 7)
 
 --- DBS ---
 1104004024 | Panthera Prime - DBS (Lv. 3)
