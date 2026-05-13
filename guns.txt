@@ -6,6 +6,9 @@
 1101102041 | Papillon Kiss - ACE32 (Lv. 8)
 1101102049 | Butterfly Whispers - ACE32 (Lv. 8)
 
+--- ASM ---
+1101101007 | Bloodwing Raven - ASM Abakan (Lv. 7)
+
 --- M416 ---
 1101004046 | Glacier - M416 (Lv. 7)
 1101004062 | The Fool - M416 (Lv. 7)
